@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ComicBookGalleryModel.Models
 {
+    /// <summary>
+    /// Represents a comic book artist.
+    /// </summary>
     public class Artist
     {
         public Artist()

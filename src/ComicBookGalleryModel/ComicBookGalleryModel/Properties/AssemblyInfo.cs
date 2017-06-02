@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ComicBookGalleryModel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Johnson Electric")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ComicBookGalleryModel")]
-[assembly: AssemblyCopyright("Copyright © Johnson Electric 2017")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f4cd58c8-0a72-4082-a13e-0acc295d964f")]
+[assembly: Guid("754f58df-c252-40a3-a4b5-3ba645944d0c")]
 
 // Version information for an assembly consists of the following four values:
 //

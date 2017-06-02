@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ComicBookGalleryModel.Models
 {
+    /// <summary>
+    /// Represents a comic book series.
+    /// </summary>
     public class Series
     {
         public Series()
@@ -15,7 +14,7 @@ namespace ComicBookGalleryModel.Models
         }
 
         public int Id { get; set; }
-        [Required, StringLength(100)]
+        [Required, StringLength(200)]
         public string Title { get; set; }
         public string Description { get; set; }
 
